@@ -1,0 +1,44 @@
+[
+    {
+            "id":101,
+            "title":"Live Class",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "img":"http://ingenioushubs.com/learnd-education/demo/images/offer-icon-1.png"
+     },
+     {
+            "id":102,
+            "title":"Lab Class",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "img":"http://ingenioushubs.com/learnd-education/demo/images/offer-icon-2.png"
+            
+     },
+     {
+            "id":103,
+            "title":"Intelligence",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "img":"http://ingenioushubs.com/learnd-education/demo/images/offer-icon-3.png"
+            
+      },
+       {
+            "id":104,
+            "title":"Job Placement",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "img":"http://ingenioushubs.com/learnd-education/demo/images/offer-icon-4.png"
+            
+        },
+        {
+            "id":105,
+            "title":"Sports",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "img":"http://ingenioushubs.com/learnd-education/demo/images/offer-icon-5.png"
+            
+        },
+        {
+            "id":106,
+            "title":"Prize",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "img":"http://ingenioushubs.com/learnd-education/demo/images/offer-icon-6.png"
+            
+        }  
+    
+]

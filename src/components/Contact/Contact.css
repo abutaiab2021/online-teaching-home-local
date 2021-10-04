@@ -1,0 +1,30 @@
+.contact{
+    background-color: antiquewhite;
+    margin-top: 15px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.contact input{
+    margin-left: 50px;
+    width: 300px;
+    margin-bottom: 5px;
+}
+
+.contact textarea{
+    margin-left: 70px;
+    width: 300px;
+}
+
+.submit{
+    margin-left: 500px;
+}
+
+.contact label{
+    margin-left: 300px;
+}
+
+.email{
+    margin-left: 10px;
+}
+

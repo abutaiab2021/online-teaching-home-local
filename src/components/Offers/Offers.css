@@ -1,0 +1,9 @@
+.offers{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+}
+
+.offers{
+    box-shadow: 10px 10px 10px solid yellow;
+}

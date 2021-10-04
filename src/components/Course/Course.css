@@ -1,0 +1,11 @@
+.course-card  {
+    width: 300px;
+    /* margin-left: 158px; */
+    /* margin-top: 10px; */
+}
+
+.card img {
+    width: 160px;
+    margin-left: 56px;
+    margin-top: 10px;
+}

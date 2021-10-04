@@ -1,0 +1,21 @@
+.footer{
+    background-color: black;
+    margin-top: 10px;
+}
+
+.left-footer img{
+    width: 100px;
+}
+
+.left-footer{
+    color: white;
+}
+
+.left-footer{
+    margin: 20px;
+}
+
+.fab{
+    font-size: 35px;
+    margin: 10px;
+}
